@@ -1,2 +1,2 @@
-- [ma chaise](https://www.ikea.com/fr/fr/p/matchspel-fauteuil-gamer-bomstad-noir-80507608/)
+- [mtsim chair mount](https://www.mtsim.com/product/joystick-hotas-chair-mount/)
 - 

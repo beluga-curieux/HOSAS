@@ -3,3 +3,5 @@
 
 - [plaque de fixation]()
     - [exemple](monstertech_chair_mount_form_3.pdf) pour mon model de chaise
+
+- [Clamping levers](https://fr.misumi-ec.com/vona2/detail/221006463813/)
