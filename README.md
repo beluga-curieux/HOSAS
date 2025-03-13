@@ -16,5 +16,7 @@ ce repo est un support / historique de mes recherches dans mon idée de me crée
 
 - ⬜️ head tracking
 - ⬜️ chair mount
+- ⬜️ moouss handler
+- ⬜️ keybord handler
 - ⬜️ palonier
-- ⬜️ thottle
+
