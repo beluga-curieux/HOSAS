@@ -13,7 +13,7 @@
 
 ### [to build](equipement/a_fabriquer.md)
 
+- ⬜️ head tracking
 - ⬜️ chair mount
 - ⬜️ palonier
 - ⬜️ thottle
-- ⬜️ head tracking
