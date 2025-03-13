@@ -2,7 +2,8 @@
 
 ## description of the project
 
-    this is a description
+    ce repo est un support / historique de mes recherches dans mon idée de me créer mon propre set-up hosas pour els jeux de simulation spatiale comme star citizen
+
 
 ## goals
 
